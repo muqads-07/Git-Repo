@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Header = () => {
+const Feature2 = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Header = () => {
   )
 }
 
-export default Header
+export default Feature2
