@@ -3,10 +3,11 @@ import React from 'react'
 const hello = () => {
   return (
     <div>
-      hello
-      hey
+        helloworld 
+        heyyyyy
     </div>
   )
 }
+
 
 export default hello
